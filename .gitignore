@@ -1,0 +1,10 @@
+
+# LangGraph API
+.langgraph_api
+
+# Dependencies
+node_modules/
+
+# Environment variables (secrets)
+.env
+.env.*
